@@ -7,7 +7,7 @@ export const App = function (props: any){
 
   return (
     <div>
-      <h1> Instagram Mockup</h1>
+      <h1 style={{color: "white"}}> Instagram Mockup</h1>
 
       <PostFeed > </PostFeed>
 
