@@ -1,0 +1,18 @@
+body {
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .scrolling-box {
+    background-color: #eaeaea;
+    display: block;
+    width: 50px;
+    height: 50px;
+    padding: 1em;
+    overflow-y: scroll;
+    text-align: center;
+  }
+  
